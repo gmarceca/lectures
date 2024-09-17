@@ -1,5 +1,5 @@
 # Lectures
-These are informal talks given to curious people. The talks are written in Spanish as the audience were from Argentina.
+These are informal talks given to curious people. The talks are written in Spanish as the attendees were from Argentina.
 
 - `special_theory_of_relativity.pdf`: Main concepts of special theory of relativity
 - `the_past_still_exist.pdf`: More about what space-time is according to special relativity
